@@ -5,6 +5,7 @@
 // @author       Nikuname, Clrain
 // @version      1.0.0
 // @match        https://chzzk.naver.com/live/*
+// @match        https://chzzk.naver.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chzzk.naver.com
 // @updateURL    https://github.com/nikuname/Chzzk-Adblock-High-Resolution/raw/main/src/main.user.js
 // @downloadURL  https://github.com/nikuname/Chzzk-Adblock-High-Resolution/raw/main/src/main.user.js
