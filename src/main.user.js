@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @description  치지직 그리드를 우회하여 1080p를 언락하고, 광고를 스킵해주는 메크로 (기여자 : hui1601)
 // @author       Nikuname, Clrain
-// @version      1.0.0
+// @version      1.0.1
 // @match        https://chzzk.naver.com/live/*
 // @match        https://chzzk.naver.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chzzk.naver.com
